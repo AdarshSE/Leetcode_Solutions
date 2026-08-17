@@ -6,10 +6,10 @@ stack<int>min;
         
     }
     
-    void push(int val) {
-        st.push(val);
-        if(min.empty() || min.top() >= val)
-        min.push(val);
+    void push(int value) {
+        st.push(value);
+        if(min.empty() || min.top() >= value)
+        min.push(value);
     }
     
     void pop() {
