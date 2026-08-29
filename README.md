@@ -16,6 +16,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
