@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
