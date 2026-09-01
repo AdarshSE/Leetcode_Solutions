@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
