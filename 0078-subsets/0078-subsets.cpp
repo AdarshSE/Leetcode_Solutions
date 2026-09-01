@@ -2,20 +2,15 @@ class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
        vector<vector<int>> ans;
+        ans.push_back({});
 
-        int n = nums.size();
-        int total = 1 << n;
+        for (int num : nums) {
+            int n = ans.size();
 
-        for (int i = 0; i < total; i++) {
-            vector<int> temp;
-
-            for (int j = 0; j < n; j++) {
-                if (i & (1 << j)) {
-                    temp.push_back(nums[j]);
-                }
+            for (int i = 0; i < n; i++) {
+                ans.push_back(ans[i]);
+                ans.back().push_back(num);
             }
-
-            ans.push_back(temp);
         }
 
         return ans;
