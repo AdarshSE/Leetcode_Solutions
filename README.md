@@ -35,6 +35,7 @@
 | [0046-permutations](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
