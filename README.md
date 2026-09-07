@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -69,5 +70,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
