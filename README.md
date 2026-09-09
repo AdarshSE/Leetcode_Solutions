@@ -35,6 +35,7 @@
 | [0035-search-insert-position](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,4 +73,12 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
