@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
