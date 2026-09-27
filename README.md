@@ -36,6 +36,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -53,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -83,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
