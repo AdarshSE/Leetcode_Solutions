@@ -39,6 +39,7 @@
 | [0049-group-anagrams](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
