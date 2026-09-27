@@ -1,7 +1,6 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        // Track the last seen index of each ASCII character
         vector<int> last_seen(128, -1);
         
         int left = 0;
