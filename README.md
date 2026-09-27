@@ -39,6 +39,7 @@
 | [0049-group-anagrams](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/AdarshSE/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
