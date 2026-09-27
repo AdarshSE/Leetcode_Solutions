@@ -8,7 +8,6 @@ public:
 
         for (int right = 0; right < s.size(); right++) {
 
-            // Remove duplicates
             while (st.count(s[right])) {
                 st.erase(s[left]);
                 left++;
